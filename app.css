@@ -1,0 +1,96 @@
+/* General Reset */
+body {
+  font-family: "Arial", sans-serif;
+  background: linear-gradient(135deg, #0f172a, #1e293b); /* Dark gradient */
+  color: #e0e0e0;
+  text-align: center;
+  margin: 0;
+  padding: 20px;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+/* Header Styling */
+header {
+  background: rgba(255, 255, 255, 0.1);
+  padding: 20px;
+  border-radius: 10px;
+  backdrop-filter: blur(10px);
+}
+
+/* Input Section */
+.wallet-input {
+  margin: 20px 0;
+}
+
+input {
+  width: 300px;
+  padding: 10px;
+  border: 1px solid #1e88e5;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.1);
+  color: white;
+  font-size: 16px;
+}
+
+button {
+  background-color: #1e88e5;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+button:hover {
+  background-color: #1565c0;
+}
+
+/* Transactions List */
+.transactions {
+  background: rgba(255, 255, 255, 0.1);
+  padding: 20px;
+  border-radius: 10px;
+  margin-top: 20px;
+  backdrop-filter: blur(10px);
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  background-color: rgba(255, 255, 255, 0.1);
+  padding: 10px;
+  margin: 10px auto;
+  border-radius: 5px;
+  width: 60%;
+  transition: 0.3s;
+}
+
+li:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+/* Transaction Links */
+a {
+  color: #1e88e5;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Footer */
+footer {
+  margin-top: 20px;
+  font-size: 14px;
+  opacity: 0.8;
+}
