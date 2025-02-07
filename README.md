@@ -1,5 +1,9 @@
 # Solana-Transaction-
 A Solana transaction is a signed request sent to the Solana blockchain to perform an action, such as transferring tokens, interacting with smart contracts, or updating an account's data. It is processed in a decentralized manner by validators and, once successfully confirmed, is added to the blockchain ledger.
+
+![Screenshot 2025-02-07 131628](https://github.com/user-attachments/assets/e73af8c4-d975-48d2-9059-217393f00f56)
+
+
 ## Introduction
 This guide explains how to perform transactions on the Solana blockchain, including sending SOL, interacting with smart contracts, and confirming transactions.
 
