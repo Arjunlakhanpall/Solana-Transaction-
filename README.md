@@ -68,6 +68,9 @@ For more details, visit: [Solana Transaction Website](https://ac55c46b-d25a-43f7
 - **Transaction failed?** Ensure network congestion is low and your wallet has enough SOL for fees.
 - **Invalid address?** Double-check that the recipient address is correct.
 
+![image](https://github.com/user-attachments/assets/427a7b69-cc7d-419a-ba9c-47662c4e83a7)
+
+
 ## References
 - [Solana Documentation](https://docs.solana.com/)
 - [Solana CLI Guide](https://docs.solana.com/cli)
